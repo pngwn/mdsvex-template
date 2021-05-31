@@ -1,6 +1,6 @@
 # mdsvex-template
 
-A simple template to get started with mdsvex. This uses [SvelteKit](https:kit/svelte.dev). Anything you can do with kit, you can do with this.
+A simple template to get started with mdsvex. This uses [SvelteKit](https://kit.svelte.dev/). Anything you can do with kit, you can do with this.
 
 ## Creating a project
 
