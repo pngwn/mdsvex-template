@@ -8,6 +8,7 @@
   },
   "devDependencies": {
     "@sveltejs/kit": "next",
+    "mdsvex": "^0.9.6",
     "svelte": "^3.34.0"
   },
   "type": "module"
