@@ -1,20 +1,14 @@
-# create-svelte
+# mdsvex-template
 
-Everything you need to build a Svelte project, powered by [`create-svelte`](https://github.com/sveltejs/kit/tree/master/packages/create-svelte);
+A simple template to get started with mdsvex. This uses [SvelteKit](https:kit/svelte.dev). Anything you can do with kit, you can do with this.
 
 ## Creating a project
 
-If you're seeing this, you've probably already done this step. Congrats!
+Clone this repo, or use GitHub's template button in the top right or use [`degit`](https://github.com/Rich-Harris/degit)
 
 ```bash
-# create a new project in the current directory
-npm init svelte@next
-
-# create a new project in my-app
-npm init svelte@next my-app
+npx degit pngwn/mdsvex-template#main
 ```
-
-> Note: the `@next` is temporary
 
 ## Developing
 
