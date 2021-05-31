@@ -7,7 +7,7 @@ A simple template to get started with mdsvex. This uses [SvelteKit](https:kit/sv
 Clone this repo, or use GitHub's green 'Use this template' button in the top right or use [`degit`](https://github.com/Rich-Harris/degit).
 
 ```bash
-npx degit pngwn/mdsvex-template#main
+npx degit pngwn/mdsvex-template#main my-project
 ```
 
 ## Developing
